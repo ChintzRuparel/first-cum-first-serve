@@ -38,7 +38,7 @@ for (i=0;i<n;i++)
 {
 tat[i]=bt[i]+wt[i];
 
-avwt+=wt[i];
+avwt+=wt[i];   //Add a try-catch for easier debug
 
 avtat+=tat[i]
 
